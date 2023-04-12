@@ -3,6 +3,7 @@ import {
   AiFillTwitterCircle,
   AiFillLinkedin,
   AiFillYoutube,
+  AiFillGithub,
 } from "react-icons/ai";
 import { BsFillMoonStarsFill } from "react-icons/bs";
 import { useState } from "react";
@@ -62,9 +63,20 @@ export default function Home() {
             development, research, management information system through organizational and contest experiences.
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
-              <AiFillInstagram />
-              <AiFillLinkedin />
-              <AiFillYoutube />
+            <a
+                href="https://github.com/iskandarsh/"
+                >
+              <AiFillGithub/>  </a>
+            <a
+                href="https://www.linkedin.com/in/iskandar-sholeh/"
+                >
+              <AiFillLinkedin />  </a>
+            <a
+                href="https://www.instagram.com/kconk.iskan/"
+                >
+              <AiFillInstagram /> </a>
+            
+            
             </div>
             <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
               <Image src={iskandar} layout="fill" objectFit="cover" />
