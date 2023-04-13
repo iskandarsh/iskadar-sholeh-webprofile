@@ -46,7 +46,7 @@ export default function Home() {
                   className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
                   href="https://drive.google.com/file/d/1w-0B7ubaxYZUxUjVfw01dz09-zRawaKB/view?usp=sharing"
                 >
-                  Resume
+                  Resumes
                 </a>
               </li>
             </ul>
