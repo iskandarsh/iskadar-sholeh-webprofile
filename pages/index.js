@@ -54,6 +54,9 @@ export default function Home() {
             </ul>
           </nav>
           <div className="text-center p-10 py-10">
+            <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
+              <Image src={iskandar} layout="fill" objectFit="cover" />
+            </div>
             <h2 className="text-5xl py-2 text-teal-600 font-medium dark:text-teal-400 md:text-6xl">
               Iskandar Sholeh
             </h2>
@@ -76,9 +79,6 @@ export default function Home() {
               <a href="https://www.instagram.com/kconk.iskan/" target="_blank" rel="noopener noreferrer">
                 <AiFillInstagram />
               </a>
-            </div>
-            <div className="mx-auto bg-gradient-to-b from-teal-500 rounded-full w-80 h-80 relative overflow-hidden mt-20 md:h-96 md:w-96">
-              <Image src={iskandar} layout="fill" objectFit="cover" />
             </div>
           </div>
         </section>
