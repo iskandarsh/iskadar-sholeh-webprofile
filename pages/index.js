@@ -66,7 +66,7 @@ export default function Home() {
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
               As a Fullstack developer, I have a strong understanding of web development, 
               from front-end with HTML, CSS, and JavaScript to back-end with PHP and MySQL. 
-              I'm also proficient in Mobile Development and Cloud Computing.
+              I&apos;m also proficient in Mobile Development and Cloud Computing.
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a href="https://github.com/iskandarsh/" target="_blank" rel="noopener noreferrer">
@@ -86,7 +86,7 @@ export default function Home() {
             <h3 className="text-3xl py-1 dark:text-white">Services I Offer</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
               I provide a range of modern digital solutions that cater to today’s needs. 
-              Let's create something extraordinary together!
+              Let&apos;s create something extraordinary together!
             </p>
           </div>
           <div className="lg:flex gap-10">
