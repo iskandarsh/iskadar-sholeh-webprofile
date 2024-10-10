@@ -61,9 +61,9 @@ export default function Home() {
               Fullstack Developer | Associate Android Developer
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-xl">
-              As a Fullstack developer, I have a strong understanding of web development, 
+              As a Fullstack developer, I&apos;ve a strong understanding of web development, 
               from front-end development with HTML, CSS, and JavaScript to back-end development 
-              with PHP and MySQL. I'm also proficient in a variety of other technologies, 
+              with PHP and MySQL. I&apos;m also proficient in a variety of other technologies, 
               including Mobile Development, and Cloud Computing.
             </p>
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
@@ -86,7 +86,7 @@ export default function Home() {
           <div>
             <h3 className="text-3xl py-1 dark:text-white">Services I offer</h3>
             <p className="text-md py-2 leading-8 text-gray-800 dark:text-gray-200">
-              Since the beginning of my journey as a freelance developer, I've done remote work for
+              Since the beginning of my journey as a freelance developer, I have done remote work for
               <span className="text-teal-500"> agencies </span>
               consulted for <span className="text-teal-500">IT </span>
               and collaborated with talented people to create digital products
@@ -103,7 +103,7 @@ export default function Home() {
                 Code your dream project
               </h3>
               <p className="py-2">
-                Do you have an idea for your next great website? Let's make it a reality.
+                Do you have an idea for your next great website? Let&apos;s make it a reality.
               </p>
               <h4 className="py-4 text-teal-600">Tools I Use</h4>
               <p className="text-gray-800 py-1">Text Editor</p>
